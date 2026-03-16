@@ -11,6 +11,8 @@ The environment is built using Proxmox VE and consists of multiple virtual machi
 
 ## Lab Architecture
 
+<img width="202" height="262" alt="Screenshot 2026-03-16 151736" src="https://github.com/user-attachments/assets/c57065d8-967d-451e-9c0b-2d118a8801bc" />
+
 The homelab currently includes three virtual machines:
 
 | Virtual Machine | Purpose |
