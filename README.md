@@ -17,8 +17,8 @@ wireguard	    |     Secure VPN access to the lab
 _____________________________________________________________________________________________________________________________________________
 Security Tools Used
 
--SIEM
--Wazuh
+*SIEM
+*Wazuh
 
 Web Server
 -Apache HTTP Server
