@@ -10,9 +10,9 @@ The lab currently includes three virtual machines:
 
 VM                 Purpose
 ___________________________________________________
-ubuntu-web	  |     Linux web server running Apache
-siem-wazuh	  |     Security monitoring platform
-wireguard	    |     Secure VPN access to the lab
+ubuntu-web	       Linux web server running Apache
+siem-wazuh	       Security monitoring platform
+wireguard	         Secure VPN access to the lab
 
 _____________________________________________________________________________________________________________________________________________
 Security Tools Used
