@@ -1,5 +1,7 @@
 ## Web Scanning Activity (Rule 100100)
 
+<img width="1687" height="1192" alt="100100" src="https://github.com/user-attachments/assets/af761ac6-32d3-4f2d-8888-8e06d0097dab" />
+
 ### Summary
 An external host (139.59.143.102) performed automated reconnaissance against the web server by probing multiple known API and application endpoints.
 
@@ -22,3 +24,4 @@ An external host (139.59.143.102) performed automated reconnaissance against the
 
 ### Analyst Notes
 This activity represents pre-exploitation reconnaissance. No compromise occurred, but the host is actively being targeted by automated scanning tools.
+<img width="1687" height="1192" alt="100100" src="https://github.com/user-attachments/assets/0817fd8e-89b2-4aa8-bcb4-69495544d734" />
